@@ -1,0 +1,38 @@
+{
+    "000":
+    {
+        "title": "Seven Wonders of the Ancient World",
+        "language":
+        {
+            "RU": "Семь чудес света Античного мира",
+            "JP": "古代世界の七不思議"
+        }
+    },
+    "001":
+    {
+        "title": "Farming Cooperative Society",
+        "language":
+        {
+            "RU": "Сельскохозяйственный кооператив",
+            "JP": "農業協同組合"
+        }
+    },
+    "002":
+    {
+        "title": "Around the World in Eighty Days",
+        "language":
+        {
+            "RU": "Вокруг света за восемьдесят дней",
+            "JP": "80日間で世界一周"
+        }
+    },
+    "003":
+    {
+        "title": "Merry Christmas and Happy New Year",
+        "language":
+        {
+            "RU": "Счастливого Роджества и с Новым Годом",
+            "JP": "あけましておめでとう"
+        }
+    }
+}
