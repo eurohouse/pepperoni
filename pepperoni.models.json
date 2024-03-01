@@ -19,6 +19,20 @@
         "country": "GB",
         "memoir": "'Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, 'Right, lads! Another twenty like that ... and then we can party!' - Bill Bryson."
     },
+    "Vanessa VillaFuerte":
+    {
+        "height": 0,
+        "weight": 0,
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "country": "US"
+    },
+    "French Feet":
+    {
+        "foot_type": "Roman",
+        "country": "FR",
+        "insignia": "eurohouse"
+    },
     "Birth of Venus":
     {
         "insignia": "huawei",
