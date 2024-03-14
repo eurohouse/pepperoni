@@ -25,13 +25,19 @@
         "weight": 0,
         "sizes": "0-0-0",
         "shoe_size": 0,
-        "country": "US"
+        "country": "US",
+        "birthday": ""
     },
     "French Feet":
     {
         "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse"
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "Birth of Venus":
     {
@@ -162,7 +168,8 @@
         "weight": 47,
         "sizes": "76-51-86",
         "shoe_size": 10.5,
-        "country": "EU"
+        "country": "EU",
+        "birthday": "May 4, 1929"
     },
     "Victoria Justice":
     {
@@ -170,7 +177,8 @@
         "weight": 53,
         "sizes": "87-61-89",
         "shoe_size": 6.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "February 19, 1993"
     },
     "Eva Darling":
     {
@@ -179,6 +187,7 @@
         "weight": 0,
         "sizes": "X-X-X",
         "shoe_size": 0,
+        "birthday": "",
         "maison": "https://www.eva-darling.com",
         "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
     }
