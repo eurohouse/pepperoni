@@ -21,23 +21,14 @@
     },
     "Vanessa VillaFuerte":
     {
-        "height": 0,
-        "weight": 0,
-        "sizes": "0-0-0",
-        "shoe_size": 0,
-        "country": "US",
-        "birthday": ""
+        "nsfw": "true"
     },
     "French Feet":
     {
         "foot_type": "Roman",
         "country": "FR",
         "insignia": "eurohouse",
-        "height": 0,
-        "weight": 0,
-        "sizes": "0-0-0",
-        "shoe_size": 0,
-        "birthday": ""
+        "nsfw": "true"
     },
     "Birth of Venus":
     {
@@ -150,6 +141,13 @@
         "insignia": "capitol",
         "memoir": "Montmartre is a large hill in Paris's northern 18th arrondissement. It is 130 m high and gives its name to the surrounding district, part of the Right Bank. Montmartre is primarily known for its artistic history, for the white-domed Basilica of the Sacré-Cœur on its summit, and as a nightclub district. The other church on the hill, Saint Pierre de Montmartre, built in 1147, was the church of the prestigious Montmartre Abbey. On 15 August 1534, Saint Ignatius of Loyola, Saint Francis Xavier and five other companions bound themselves by vows in the Martyrium of Saint Denis, 11 Rue Yvonne Le Tac, the first step in the creation of the Jesuits. Near the end of the 19th century and at the beginning of the 20th, during the Belle Époque, many artists lived, worked, or had studios in or around Montmartre, including Amedeo Modigliani, Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Henri de Toulouse-Lautrec, Suzanne Valadon, Piet Mondrian, Pablo Picasso, Camille Pissarro and Vincent van Gogh. Montmartre is also the setting for several hit films."
     },
+    "Italian Bombshell":
+    {
+        "foot_type": "Roman",
+        "country": "IT",
+        "insignia": "eurohouse",
+        "nsfw": "true"
+    },
     "Meteora":
     {
         "country": "GR",
@@ -183,7 +181,7 @@
     "Eva Darling":
     {
         "country": "US",
-        "nsfw": 0,
+        "nsfw": "true",
         "maison": "https://www.eva-darling.com",
         "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
     }
