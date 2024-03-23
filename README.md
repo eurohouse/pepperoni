@@ -1,7 +1,6 @@
-# Eurohouse Pepperoni Collection
-A premium quality, aesthetic wallpapers for every moment of your life.
+# Starry Night Wallpapers
 
-_"Elegance is the only beauty that never fades." - Audrey Hepburn_
+A free web collection of wallpapers from all around the world.
 
-![Collage](https://github.com/eurohouse/pepperoni/blob/main/pepperoni.collage.png?raw=true)
+_"I can understand wanting to have millions of dollars, there’s a certain freedom, meaningful freedom, that comes with that. But once you get much beyond that, I have to tell you, it’s the same hamburger." - Bill Gates_
 
