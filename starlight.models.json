@@ -135,7 +135,14 @@
         "foot_type": "Roman",
         "country": "IT",
         "insignia": "eurohouse",
-        "nsfw": "true"
+        "nsfw": "true",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Сексуальная итальянка"
+            }
+        }
     },
     "Meteora":
     {
@@ -162,7 +169,14 @@
         "sizes": "76-51-86",
         "shoe_size": 10.5,
         "country": "EU",
-        "birthday": "May 4, 1929"
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Одри Хепберн"
+            }
+        }
     },
     "Victoria Justice":
     {
@@ -171,7 +185,14 @@
         "sizes": "87-61-89",
         "shoe_size": 6.5,
         "country": "US",
-        "birthday": "February 19, 1993"
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Виктория Джастис"
+            }
+        }
     },
     "Eva Darling":
     {
